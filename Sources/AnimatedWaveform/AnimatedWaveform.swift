@@ -5,7 +5,7 @@
 //  Created by Kevin Deffke on 09.01.22.
 //
 
-import SwiftU
+import SwiftUI
 
 
 /// The `View` that's getting used for the animated wave form.
