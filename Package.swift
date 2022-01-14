@@ -24,6 +24,6 @@ let package = Package(
         .target(
             name: "AnimatedWaveform",
             dependencies: []),
-        .testTarget(name: "AnimatedWaveform", dependencies:[""])
+        .testTarget(name: "AnimatedWaveform", dependencies:[])
     ]
 )
